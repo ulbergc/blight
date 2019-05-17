@@ -1,0 +1,4 @@
+oversample minority, GBC(max_features=log2, max_depth=4): AUC=0.8209
+undersample majority, GBC(max_features=log2, max_depth=4): AUC=0.8071
+resample both, GBS(max_features=sqrt, max_depth=4): AUC=0.8174
+resample both, GBS(max_features=sqrt, max_depth=5): AUC=0.8258
