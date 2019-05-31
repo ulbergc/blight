@@ -1,7 +1,7 @@
 # blight
 from coursera, and Kaggle
 
-from https://inclass.kaggle.com/c/detroit-blight-ticket-compliance/leaderboard
+from https://inclass.kaggle.com/c/detroit-blight-ticket-compliance/overview
 
 working to improve the AUC score
 
